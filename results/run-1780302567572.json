@@ -1,0 +1,56 @@
+{
+  "runId": "run-1780302567572",
+  "timestamp": "2026-06-01T08:29:27.572Z",
+  "totalCases": 5,
+  "results": [
+    {
+      "caseId": "001",
+      "input": "What is the capital of France?",
+      "output": "",
+      "expected": "Paris",
+      "scores": [],
+      "latencyMs": 767,
+      "error": "[GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
+    },
+    {
+      "caseId": "002",
+      "input": "What is 2 + 2?",
+      "output": "",
+      "expected": "4",
+      "scores": [],
+      "latencyMs": 883,
+      "error": "[GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
+    },
+    {
+      "caseId": "003",
+      "input": "What language is used to build Android apps?",
+      "output": "",
+      "expected": "Kotlin",
+      "scores": [],
+      "latencyMs": 229,
+      "error": "[GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
+    },
+    {
+      "caseId": "004",
+      "input": "Explain what an API is in one sentence.",
+      "output": "",
+      "expected": "interface",
+      "scores": [],
+      "latencyMs": 201,
+      "error": "[GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
+    },
+    {
+      "caseId": "005",
+      "input": "Write a haiku about TypeScript.",
+      "output": "",
+      "scores": [],
+      "latencyMs": 194,
+      "error": "[GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
+    }
+  ],
+  "summary": {
+    "avgLatencyMs": 0,
+    "errorCount": 5,
+    "avgScores": {}
+  }
+}

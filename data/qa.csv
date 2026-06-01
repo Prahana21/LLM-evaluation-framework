@@ -1,0 +1,6 @@
+id,input,expected
+001,What is the capital of France?,Paris
+002,What is 2 + 2?,4
+003,What language is used to build Android apps?,Kotlin
+004,Explain what an API is in one sentence.,interface
+005,Write a haiku about TypeScript.,

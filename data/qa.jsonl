@@ -1,0 +1,5 @@
+{"id": "001", "input": "What is the capital of France?", "expected": "Paris", "judgeCriteria": "Is the answer factually correct?"}
+{"id": "002", "input": "What is 2 + 2?", "expected": "4", "judgeCriteria": "Is the mathematical answer correct?"}
+{"id": "003", "input": "What language is used to build Android apps?", "expected": "Kotlin", "judgeCriteria": "Does the answer mention Kotlin as the primary language?"}
+{"id": "004", "input": "Explain what an API is in one sentence.", "expected": "interface", "judgeCriteria": "Is this a clear and accurate one-sentence explanation of an API?"}
+{"id": "005", "input": "Write a haiku about TypeScript.", "judgeCriteria": "Is this a valid haiku with 5-7-5 syllable structure about TypeScript?"}
