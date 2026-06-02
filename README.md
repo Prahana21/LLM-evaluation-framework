@@ -1,4 +1,4 @@
-# LLM Evaluation Framework
+# ScorEngine: LLM Evaluation Framework
 
 A modular, CLI-based framework for evaluating and benchmarking Large Language Model outputs — built in TypeScript.
 
